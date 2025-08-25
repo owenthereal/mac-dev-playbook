@@ -38,6 +38,7 @@ dotfiles_files:
   - .tmux.conf
   - .zshrc
   - .zshrc.darwin
+  - .config/alacritty/alacritty.toml
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
